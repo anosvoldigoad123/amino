@@ -1,0 +1,6 @@
+pdf2image
+Amino.py
+youtube_dl
+reportlab
+argparse
+pyttsx3
